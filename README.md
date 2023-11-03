@@ -1,4 +1,4 @@
-# aoc-22
+# Advent of Code
 
 To install dependencies:
 
